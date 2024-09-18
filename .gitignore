@@ -1,2 +1,4 @@
 .venv/
 flagged/
+scripts/__pycache__/
+notebooks/catboost_info/

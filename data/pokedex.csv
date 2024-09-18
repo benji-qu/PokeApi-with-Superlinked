@@ -676,7 +676,6 @@
 674,675,pangoro,"['iron-fist', 'mold-breaker', 'scrappy']",white,humanoid,,0.25,21,1360,fighting,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/675.png
 675,676,furfrou,['fur-coat'],white,quadruped,,0.63,12,280,normal,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/676.png
 676,677,espurr,"['keen-eye', 'infiltrator', 'own-tempo']",gray,upright,,0.75,3,35,psychic,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/677.png
-677,678,meowstic-male,"['keen-eye', 'infiltrator', 'prankster']",blue,upright,,0.29,6,85,psychic,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/678.png
 678,679,honedge,['no-guard'],brown,blob,,0.71,8,20,steel,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/679.png
 679,680,doublade,['no-guard'],brown,heads,,0.35,8,45,steel,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/680.png
 680,681,aegislash-shield,['stance-change'],brown,blob,,0.18,17,530,steel,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/681.png
@@ -1023,4 +1022,3 @@
 1021,1022,iron-boulder,['quark-drive'],gray,,,0.04,15,1625,rock,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1022.png
 1022,1023,iron-crown,['quark-drive'],blue,,,0.04,16,1560,steel,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1023.png
 1023,1024,terapagos,['tera-shift'],blue,,,1.0,2,65,normal,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1024.png
-1024,1025,pecharunt,['poison-puppeteer'],purple,,,0.01,3,3,poison,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1025.png

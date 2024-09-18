@@ -42,4 +42,11 @@ def get_data(id):
 
 pokedex_list = [get_data(i) for i in range(1, n+1)]
 pokedex_df = pd.DataFrame(pokedex_list)
+# We drop this pokemon because there is a problem with his image for some reason
+meowstic_male_to_drop = pokedex_df[(pokedex_df['name'] == 'meowstic-male')].index
+pokedex_df = pokedex_df.drop(meowstic_male_to_drop)
+# We drop this pokemon because the image is not square
+pecharunt_male_to_drop = pokedex_df[(pokedex_df['name'] == 'pecharunt')].index
+pokedex_df = pokedex_df.drop(pecharunt_male_to_drop)
+
 pokedex_df.to_csv('data/pokedex_temp.csv')
