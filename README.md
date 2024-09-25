@@ -16,10 +16,10 @@ This project aims to give better understanding of capabilities of Superlinked an
 - CLIP for image and texgt embeddings.
 
 ## Usage
-Find how to run simple queries in notebook folder. 
-Run app.py for Gradio UI.
-Also see data analisys in corresponding notebook. 
-Data retrival script is in scripts folder.
+- Find how to run basic queries in notebook folder. 
+- Or simlply run app.py in scripts folder for Gradio UI.
+- Also see data analisys in corresponding notebook. 
+- Data retrival script is in scripts folder.
 
 ## TODO
 - Compare Superlinked to alternatives
