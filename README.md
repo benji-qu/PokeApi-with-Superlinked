@@ -24,6 +24,5 @@ This project aims to give better understanding of capabilities of Superlinked an
 - Data retrival script is in scripts folder.
 
 ## TODO
-- Compare Superlinked to alternatives
-- 
-- Use MongoDB for storring images and embeddings
+- Compare Superlinked to alternatives.
+- Migrate to MongoDB.
