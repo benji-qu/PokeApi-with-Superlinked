@@ -16,11 +16,12 @@ This project aims to give better understanding of capabilities of Superlinked an
 - CLIP for image and texgt embeddings.
 
 ## Usage
-Find examples in notebook folder. 
-Or simply run app.py for Gradio. 
+Find how to run simple queries in notebook folder. 
+Run app.py for Gradio UI.
 Also see data analisys in corresponding notebook. 
 Data retrival script is in scripts folder.
 
 ## TODO
 - Compare Superlinked to alternatives
-- Use cloudDB for storring images and embeddings
+- 
+- Use MongoDB for storring images and embeddings
